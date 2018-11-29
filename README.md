@@ -21,6 +21,8 @@
 
 * Julius_Caesar.txt - text file containing 5 acts from the Julius Caesar book.
 
+* Execution.png - a screenshot of the execution to avoid any confusion
+
 ### For HyperLogLog
 * hyperLogLog.h - used to define the HyperLogLog Class, add to the HyperLogLog, and calculate the harmonic mean.
 
