@@ -1,5 +1,4 @@
-# Advanced-Algorithm-Project
-Implementation of Probabilistic Data Structures
+#Implementation of Probabilistic Data Structures
 
 ## Probabilistic Data Structures Implemented
 * HyperLogLog - Abhiram Bellur (01FB16ECS013)
@@ -18,7 +17,7 @@ Implementation of Probabilistic Data Structures
 
 * dictionary.txt - text file containing around 30k+ words from the English dictionary
 
-* Harry_potter.txt - text file containing excerpts from the seven Harry Potter books.
+* Harry_Potter.txt - text file containing excerpts from the seven Harry Potter books.
 
 * Julius_Caesar.txt - text file containing 5 acts from the Julius Caesar book.
 
